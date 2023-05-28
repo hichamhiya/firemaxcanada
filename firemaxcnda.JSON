@@ -1,0 +1,36 @@
+{
+	"version": "FFH4X V1",
+
+
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+	"applovinbanner": "77c64f9e99e23763",
+	"applovininter": "11414c0241b0e82a",
+	"applovinreward": "b4c66b4a4984eaf1",
+	
+	"ironsdk": "114b18dc5",
+	
+	"appodealkey": "00000000000",
+
+	"admobbannerId": "ca-app-pub-7814511321784748/4390754342",
+	"admobInterId": "ca-app-pub-7814511321784748/3269244364",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+	"admobAppOpenid": "ca-app-pub-3940256099942544/5224354917",
+
+
+
+
+"adsSwitch detail ": " 1:iron 2:applovin 3:aplodeal 4:admob 0:auto",
+"adsSwitchInter": "4",
+"adsSwitchBanner": "4",
+"adsSwitchReward": "4",
+
+"adscounter": "1"
+
+	
+
+
+
+
+
+}
